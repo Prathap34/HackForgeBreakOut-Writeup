@@ -2,9 +2,6 @@
 
 This repository contains the full penetration testing walkthrough report for the **HackForgeBreakOut** machine (Debian 11 target). 
 
-## 📂 Full Report
-👉 **[Download the Full PDF Report With Screenshots](./report.pdf)**
-
 ## 🛠️ Tools & Technologies Used
 * **Reconnaissance:** `arp-scan`, `nmap`, `enum4linux`
 * **Interception:** Burp Suite Community Edition
